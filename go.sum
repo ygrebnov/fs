@@ -1,0 +1,6 @@
+github.com/ygrebnov/errorc v0.7.0 h1:UBk753h/SNWfX9W6Byp+zckIdybXJ/ixc+VWukpQfdQ=
+github.com/ygrebnov/errorc v0.7.0/go.mod h1:akitMzADmnm0i1X5fSJfBqiTqCzckka9sgukTRQN5ns=
+github.com/ygrebnov/keys v0.2.0 h1:KQSQG1la9WkTW59WbB3CK1yhxZ92el2ZJfV1XtlHTp0=
+github.com/ygrebnov/keys v0.2.0/go.mod h1:4IfRPgv7tFSlToKzHtA9MPMwXP0+HRJ0Kk8XSrvhDvQ=
+golang.org/x/sys v0.50.0 h1:dkKZEFTEKaLr1sjhs0WiKqoi8Jj5nHbS3Njmx1UoMJs=
+golang.org/x/sys v0.50.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
